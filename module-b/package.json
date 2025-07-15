@@ -1,0 +1,17 @@
+{
+  "name": "module-b",
+  "version": "1.0.0",
+  "main": "src/App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "module-a": "file:.yalc/module-a",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}

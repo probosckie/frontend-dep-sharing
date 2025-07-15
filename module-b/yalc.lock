@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "module-a": {
+      "signature": "317a1964568c732116e8adca6e58f693",
+      "file": true
+    }
+  }
+}
