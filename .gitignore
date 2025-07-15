@@ -1,7 +1,5 @@
 # Node modules
 node_modules/
-module-a/node_modules/
-module-b/node_modules/
 
 # Build output
 dist/
@@ -22,3 +20,8 @@ yarn-error.log*
 # IDE files
 .vscode/
 .idea/
+
+# Yalc packages
+.yalc/
+yalc.lock
+

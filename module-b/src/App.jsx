@@ -3,5 +3,10 @@ import React from "react";
 import { Button } from "module-a";
 
 export const App = () => {
-  return <Button>Hello from Module A</Button>;
+  return (
+    <>
+      <p>hello from module B</p>
+      <Button>Hello from Module A</Button>
+    </>
+  );
 };
